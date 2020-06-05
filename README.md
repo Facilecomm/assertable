@@ -15,7 +15,7 @@ Bottle.new volume_in_ml: 1500
 => #<Bottle:0x000056533e319100>
 
 Bottle.new volume_in_ml: -100
-=> Assertable::Assertion
+=> raises Assertable::Assertion
 ```
 
 ## Installation
