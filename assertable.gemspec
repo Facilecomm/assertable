@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Assertions in code (MiniTest-like syntax)'
   spec.description   = 'Allows for compact checks (Python style)'
-  spec.homepage      = 'https://rubygems.org/gems/assertable'
+  spec.homepage      = 'https://github.com/Facilecomm/assertable'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.6.0')
 
