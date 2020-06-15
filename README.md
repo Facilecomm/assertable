@@ -1,6 +1,6 @@
 # Assertable
 
-Allows for assertions in your code.
+Allows for (MiniTest-style) assertions in your code.
 
 ```ruby
 class Bottle
